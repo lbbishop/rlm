@@ -1,4 +1,4 @@
-package com.airhacks;
+package com.rhinocorps.rlm.ws;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
